@@ -316,7 +316,7 @@ body::after {
 }
 
 .marquee-1 {
-  transform: rotate(-0.261deg);
+  /*transform: rotate(-0.261deg);*/
   margin-bottom: 1%;
 }
 
@@ -325,12 +325,12 @@ body::after {
 }
 
 .marquee-3 {
-  transform: rotate(-0.5deg);
+  /*transform: rotate(-0.5deg);*/
   margin-bottom: 2%;
 }
 
 .marquee-4 {
-  transform: rotate(-1deg);
+  /*transform: rotate(-1deg);*/
 }
 
 .container {
@@ -661,9 +661,7 @@ body::after {
     scale: 2;
   }
 
-
   .marquee-1 {
-    transform: rotate(-0.261deg);
     margin-top: 8%;
     margin-bottom: 4%;
   }
@@ -673,14 +671,8 @@ body::after {
   }
 
   .marquee-3 {
-    transform: rotate(-0.5deg);
     margin-bottom: 6%;
   }
-
-  .marquee-4 {
-    transform: rotate(-1deg);
-  }
-
 
 }
 
